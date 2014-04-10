@@ -10,5 +10,5 @@ Installation:
 
 Resources:
 --------------
-http://blog.elenakolevska.com/using-grunt-with-laravel-and-bootstrap/
-https://github.com/JeffreyWay/Laravel-4-Generators
+- http://blog.elenakolevska.com/using-grunt-with-laravel-and-bootstrap/
+- https://github.com/JeffreyWay/Laravel-4-Generators
