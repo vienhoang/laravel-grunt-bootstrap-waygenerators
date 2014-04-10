@@ -6,6 +6,7 @@ Laravel 4.1 Setup with Grunt, Bootstrap and JeffreyWay's Generators
 Installation:
 --------------
 - clone this repo
+- composer update
 - bower install
 
 Resources:
