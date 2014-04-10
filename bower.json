@@ -1,0 +1,27 @@
+{
+  "name": "vienhoang/grunt-bower-bootstrap-laravel",
+  "version": "1.0.0",
+  "authors": [
+    "Vien Hoang <vieninsweden@gmail.com>"
+  ],
+  "description": "Grunt Bower Bootstrap Laravel Setup",
+  "main": "bower.js",
+  "keywords": [
+    "grunt",
+    "bower",
+    "bootstrap",
+    "laravel"
+  ],
+  "license": "Free for all",
+  "homepage": "http://vienhoang.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
